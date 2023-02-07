@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [0.1.2] (2023-02-07)
+
+### Features
+
+* add file 3.md
+
 ## [0.1.1] (2023-02-07)
 
 ### Features

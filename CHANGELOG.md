@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [0.1.4] (2023-02-08)
+
+### Bug Fixes
+
+* fix .gitignore (2)
+
+
 ## [0.1.3] (2023-02-08)
 
 ### Bug Fixes
